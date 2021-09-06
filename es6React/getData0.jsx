@@ -1,6 +1,6 @@
 // Add and remove code as necessary to follow along with Dr. Williams
 
-// const name = "Mart";
+// const name = "Mary";
 // const element = <h1>Hello {name}</h1>
 // ReactDOM.render(<App />, document.getElementById("root"));
 
