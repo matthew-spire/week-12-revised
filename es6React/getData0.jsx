@@ -2,7 +2,7 @@
 
 // const name = "Mary";
 // const element = <h1>Hello {name}</h1>
-// ReactDOM.render(<App />, document.getElementById("root"));
+// ReactDOM.render(element, document.getElementById("root"));
 
 // App component that will be rendered into the root div of standalone.html
 const App = () => {
